@@ -10,7 +10,7 @@ Clone the project to your desired location:
 
 Run the following commands to setup:
 
-* `cd dockware`
+* `cd shopwareDockware`
 * `./start.sh`
 
 To download the current version of Shopware to your host
